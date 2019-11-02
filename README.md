@@ -3,4 +3,4 @@
 数据结构课程作业, 加上了简单的GUI.
 ***
 ### 食用方法
-编译运行LifeGameFrame.jav. 按照内附格式输入即可.
+编译运行LifeGameFrame.java. 按照内附格式输入即可.
